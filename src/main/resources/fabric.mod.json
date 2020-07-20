@@ -13,12 +13,12 @@
   },
 
   "license": "MIT",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/noambientmobs/icon.png",
 
   "environment": "*",
 
   "mixins": [
-    "modid.mixins.json"
+    "noambientmobs.mixins.json"
   ],
 
   "depends": {

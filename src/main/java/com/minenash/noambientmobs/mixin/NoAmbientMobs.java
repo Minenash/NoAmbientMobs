@@ -1,4 +1,4 @@
-package net.fabricmc.example.mixin;
+package com.minenash.noambientmobs.mixin;
 
 import net.minecraft.entity.SpawnGroup;
 import net.minecraft.world.biome.Biome;
